@@ -1,5 +1,6 @@
 BASIC GIT COMMANDS
 Git is distributed version-control system for tracking changes in any set of files. 
+shakshi ne match harwa diya
 
 git init
 This command turns a directory into an empty Git repository.
