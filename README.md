@@ -1,5 +1,5 @@
 BASIC GIT COMMANDS
-Git is distributed version-control system for tracking changes in any set of files. Here are the few basic commands used in git.
+Git is distributed version-control system for tracking changes in any set of files. 
 
 git init
 This command turns a directory into an empty Git repository.
